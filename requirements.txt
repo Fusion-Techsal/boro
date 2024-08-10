@@ -1,0 +1,9 @@
+opencv-python
+openai
+python-dotenv
+speechrecognition
+PyQt5
+pyqt5-tools
+pyttsx3
+pyaudio
+
